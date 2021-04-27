@@ -1,7 +1,7 @@
 # Google Keep Clone - Front End - React
 
 * Deployed at : https://infinite-brushlands-70873.herokuapp.com
-* Google Keep Clone Server - https://github.com/rathiraghav00/Google-Keep-Clone-Server
+* Google Keep Clone Server - https://github.com/Aegon-00/Google-Keep-Clone-Backend
 * Clone of Google Keep to Create, Read and Delete Notes 
 * Frontend supported by React, HTML, CSS, Bootstrap and Javascript
 * Backend supported by Express.js, MongoDB, Mongoose, Postman and REST API
